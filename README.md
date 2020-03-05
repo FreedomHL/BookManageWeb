@@ -1,2 +1,2 @@
-# BookManageSmall
+# BookManageWeb
 SpringBoot+vue+elementUI+Demo
